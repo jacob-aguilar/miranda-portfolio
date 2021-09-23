@@ -1,2 +1,1 @@
-# mirandafebliya.github.io
-Miranda's porfolio website
+# Miranda's porfolio website
